@@ -67,6 +67,7 @@ This project delivers a well-tuned fraud detection model that is technically sou
 - `model_training.ipynb`: Training and evaluation of all model types
 - `applications_models.ipynb`: Score cutoff optimization and cost modeling
 - `applications data.csv` main dataset
+- `vars.csv`, `vars_final.csv`: List of variables created and finalized respoectively
 - `FDR_trn.xlsx`, `FDR_tst.xlsx`, `FDR_oot.xlsx`: Binned evaluation results
 
 
